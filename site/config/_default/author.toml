@@ -1,0 +1,9 @@
+name = ""
+# avatar = "images/profile.png" # Avatar image. Default to "".
+bio = ""
+company = "SkytechLab"
+location = ""
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"

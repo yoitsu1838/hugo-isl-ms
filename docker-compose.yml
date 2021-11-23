@@ -1,0 +1,13 @@
+# docker-compose.yml
+
+version: '3'
+services:
+  web:
+    build: .
+    image: yoitsu/hugo
+    volumes:
+      - ./site:/usr/share/blog
+    ports:
+      - "1313:1313"
+    stdin_open: true
+    tty: true

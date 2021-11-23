@@ -1,0 +1,9 @@
+baseurl = "https://*****.github.io/*****/" # 後ほどGitHub Pagesの設定ができたらこちらを修正します。
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "SkytechLab_BLOG"
+theme = "hugo-theme-bootstrap"
+
+
+
+[params]

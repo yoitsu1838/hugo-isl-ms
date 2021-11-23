@@ -1,0 +1,15 @@
+[[main]]
+  name = "Links"
+  identifier = "link"
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
+[[main]]
+  id = "github"
+  parent = "link"
+  name = "Github"
+  url = "https://github.com/razonyang/hugo-theme-bootstrap"
+  pre = '<i class="fab fa-fw fa-github"></i>'
+[[main]]
+  id = "manual"
+  parent = "link"
+  name = "Manual"
+  url = "en/series/manual"
