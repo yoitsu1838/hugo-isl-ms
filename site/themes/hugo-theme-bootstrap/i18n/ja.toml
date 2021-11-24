@@ -53,7 +53,7 @@ other = "Teal"
 other = "Yellow"
 
 [contact_name]
-other = "Name"
+other = "お名前"
 
 [contact_email]
 other = "Email"
@@ -71,7 +71,7 @@ other = "本文"
 other = "Copyright"
 
 [featured_posts]
-other = "Featured Posts"
+other = "注目記事"
 
 [font_size]
 other = "文字の大きさ"
@@ -123,25 +123,25 @@ other = "{{ .ReadingTime }} min read"
 other = "最近の投稿"
 
 [related_posts]
-other = "Related Posts"
+other = "関連記事"
 
 [search]
 other = "Search"
 
 [search_missing_keywords]
-other = "Please enter search keywords"
+other = "検索ワードを入力してください。"
 
 [search_no_results]
-other = "No results found"
+other = "結果は見つかりませんでした。"
 
 [search_stat]
-other = "Found {{ .Total }} results"
+other = " {{ .Total }} 件の投稿が見つかりました。"
 
 [series]
-other = "Series"
+other = "連載"
 
 [settings]
-other = "Settings"
+other = "設定"
 
 [table_of_contents]
 other = "Table Of Contents"

@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = ""
 title = "SkytechLab_BLOG"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2021 SkytechLab. All Rights Reserved."

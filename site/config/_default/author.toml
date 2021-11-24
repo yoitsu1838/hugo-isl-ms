@@ -1,5 +1,5 @@
 name = ""
-# avatar = "images/profile.png" # Avatar image. Default to "".
+avatar = "images/profile.png" # Avatar image. Default to "".
 bio = ""
 company = "SkytechLab"
 location = ""
