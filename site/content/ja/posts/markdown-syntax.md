@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+title = "投稿パターン2"
 date = "2020-11-09"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 featured = true
