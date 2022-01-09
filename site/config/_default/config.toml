@@ -1,5 +1,5 @@
-baseURL = "https://yoitsu1838.github.io/hugo-isl-ms-staticPreview"
-logoHomeLink = "/hugo-isl-ms-staticPreview"
+baseURL = "https://yoitsu1838.github.io/hugo-isl-ms-staticPreview/research/azure-sec"
+logoHomeLink = "/hugo-isl-ms-staticPreview/research/azure-sec"
 title = "SkytechLab_BLOG"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2021 SkytechLab. All Rights Reserved."
