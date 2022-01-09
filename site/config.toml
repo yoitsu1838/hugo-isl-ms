@@ -1,4 +1,4 @@
-baseurl = "https://yoitsu1838.github.io/hugo-isl-ms-staticPreview/research/azure-sec" # 後ほどGitHub Pagesの設定ができたらこちらを修正します。
+baseurl = "https://tdu-isl.github.io/home/research/azure-sec" # 後ほどGitHub Pagesの設定ができたらこちらを修正します。
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "SkytechLab_BLOG"

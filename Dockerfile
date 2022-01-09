@@ -25,5 +25,5 @@ ONBUILD ADD site/ /usr/share/blog
 ONBUILD RUN hugo -d /usr/share/nginx/html/
 
 # By default, serve site
-ENV HUGO_BASE_URL http://localhost:1313/hugo-isl-ms-staticPreview/research/azure-sec
+ENV HUGO_BASE_URL http://localhost:1313/home/research/azure-sec
 CMD hugo server -b ${HUGO_BASE_URL} --bind=0.0.0.0
